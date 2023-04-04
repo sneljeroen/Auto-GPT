@@ -6,7 +6,7 @@ CONSTRAINTS:
 
 COMMANDS:
 
-1. Google Search: "google", args: "input": "<search>"
+1. Google Search: "google", args: "query": "<search>"
 2. Memory Add: "memory_add", args: "string": "<string>"
 3. Memory Delete: "memory_del", args: "key": "<key>"
 4. Memory Overwrite: "memory_ovr", args: "key": "<key>", "string": "<string>"
